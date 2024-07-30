@@ -105,3 +105,14 @@
       font-size: 14px;
     }
   }
+
+@media (max-width: 576px) {
+  .sidebar::-webkit-scrollbar{
+      width: 3px;
+      background-color: #ddd;
+  }
+
+  .sidebar::-webkit-scrollbar-thumb{
+      background-color: rgb(165, 162, 162);
+  }
+}
