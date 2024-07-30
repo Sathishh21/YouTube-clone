@@ -6,10 +6,19 @@
     background-color: white;
     width: 72px;
     z-index: 200;
-    padding-top: 5px;
+    padding-top: 3px;
     overflow-y: auto;
     
 }
+
+.sidebar::-webkit-scrollbar{
+      width: 3px;
+      background-color: #ddd;
+  }
+
+  .sidebar::-webkit-scrollbar-thumb{
+      background-color: rgb(165, 162, 162);
+  }
 
 .sidebar-link{
     height: 80px;
