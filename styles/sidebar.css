@@ -125,4 +125,24 @@
   .sidebar::-webkit-scrollbar-thumb{
       background-color: rgb(165, 162, 162);
   }
+
+  .sidebar {
+    top: auto;
+    left: 0;
+    right: 0; 
+    bottom: 0;
+    height: 55px;
+    width: 100%; 
+    padding-top: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    flex-direction: row;
+    overflow-y: hidden;
+  }
+  
+  .sidebar-link {
+    height: auto;
+    width: 100vw;
+  }
 }
