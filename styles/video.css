@@ -50,6 +50,7 @@ row-gap: 30px;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        row-gap: 20px;
     }
 
     .thumbnail{
@@ -58,11 +59,6 @@ row-gap: 30px;
 
     .video-info-grid{
         padding: 0.5em;
-    }
-
-    .video-grid{
-        column-gap: 0;
-        row-gap: 20px;
     }
 }
 
