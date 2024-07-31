@@ -196,4 +196,17 @@
     .search-bar{
         width: 15vw;
     }
+
+    .search-btn{
+        width: 24%;
+    }
+
+    .right-section{
+        display: none;
+    }
+
+    .middle-section{
+        margin-left: 10px;
+        margin-right: 9px;
+    }
 }
