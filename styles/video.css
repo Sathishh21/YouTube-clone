@@ -59,6 +59,10 @@ row-gap: 30px;
     .video-info-grid{
         padding: 0.5em;
     }
+
+    .video-grid{
+        column-gap: 0;
+    }
 }
 
 @media (max-width: 991px){
