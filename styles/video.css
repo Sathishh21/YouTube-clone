@@ -51,6 +51,14 @@ row-gap: 30px;
         justify-content: center;
         align-items: center;
     }
+
+    .thumbnail{
+        border-radius: 0px;
+    }
+
+    .video-info-grid{
+        padding: 0.5em;
+    }
 }
 
 @media (max-width: 991px){
