@@ -62,6 +62,7 @@ row-gap: 30px;
 
     .video-grid{
         column-gap: 0;
+        row-gap: 20px;
     }
 }
 
